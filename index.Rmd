@@ -1,5 +1,7 @@
 ---
 title: "Megan's website"
+output: html_document
+fig_caption: true
 ---
 
 <font size = "3">
