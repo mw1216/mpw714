@@ -1,0 +1,16 @@
+---
+title: "Megan's website"
+---
+
+<font size = "3">
+This is the location of my hometown, Oriskany.
+
+![Oriskany's location in Central New York](oriskany.png)
+
+I went to Le Moyne College in Syracuse, NY, where I received my B.S. in biological sciences. 
+
+![Le Moyne College Science Center](lemoyne.jpg)
+
+I am currently a fourth year PhD student in the microbiology program. I study the actinorhizal symbiosis, which is the mutualistic relationship that occurs between bacteria in the genus *Frankia* and their host plants.
+
+![A root nodule induced by *Frankia* on its host plant](IMG_85551.jpg)

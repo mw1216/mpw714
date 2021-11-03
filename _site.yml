@@ -1,0 +1,14 @@
+name: "megan_website"
+navbar:
+  title: "Megan's website"
+  left:
+    - text: "Home"
+    - href: "index.html"
+  right:
+    - icon: fa-envelope fa-lg
+      href: mailto:<megan.worth00@gmail.com>
+    - icon: fa-github fa-lg
+      href: http://github.com/mw1216
+output:
+  html_document:
+    theme: darkly
